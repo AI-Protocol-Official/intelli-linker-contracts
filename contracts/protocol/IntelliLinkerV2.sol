@@ -2,7 +2,7 @@
 pragma solidity ^0.8.4;
 
 import "@ai-protocol/intelligent-nft-contracts/contracts/protocol/IntelligentNFTv2.sol";
-import "@lazy-sol/access-control-upgradeable/contracts/UpgradeableAccessControl.sol";
+import "@ai-protocol/access-control-upgradeable/contracts/UpgradeableAccessControl.sol";
 
 /**
  * @title Intelligent Token Linker (iNFT Linker)
